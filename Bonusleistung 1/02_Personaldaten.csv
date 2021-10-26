@@ -1,0 +1,14 @@
+Personalnummer;Wohnort;Geschlecht;Alter;Jahresgehalt;Betriebszugehörigkeit;Position;Bildungsabschluss
+1;23966;m;45;32;10;arb;Lehre
+2;23966;w;57;35000;25;verw;Bachelor
+3;23966;m;52;40;5;manager;Master
+4;23966;m;28;27;6;arb;Lehre
+5;23966;male;57;45;25;manager;Master
+6;23966;fem;26;27;96;arb;Lehre
+7;23966;m;39;39;4;manager;Master
+8;23966;m;38;32;3;arb;Lehre
+9;23966;m;42;31;15;arb;ohne
+10;23966;w;37;30;10;verw;Abi
+11;23966;m;45;32;8;arb;
+12;23966;m;37;;5;;
+13;23966;w;35;30;15;verw;Abi
